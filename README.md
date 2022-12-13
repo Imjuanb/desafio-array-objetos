@@ -2,4 +2,4 @@
 
 ## puedes ver el proyecto aqui
 
-- [Aqui] (https://imjuanb.github.io/desafio-array-objetos/)
+- [Aqui](https://imjuanb.github.io/desafio-array-objetos/)
